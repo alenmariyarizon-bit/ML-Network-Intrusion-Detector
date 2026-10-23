@@ -1,0 +1,11 @@
+{
+    "model": "Random Forest Classifier",
+    "dataset": "UNSW-NB15 training set",
+    "training_records": 140272,
+    "testing_records": 35069,
+    "features": 194,
+    "accuracy": 0.9561,
+    "attack_precision": 0.9738,
+    "attack_recall": 0.9614,
+    "attack_f1_score": 0.9676
+}
